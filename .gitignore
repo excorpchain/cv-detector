@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# веса моделей скачиваются через export_openvino.py
+models/
+
+# пользовательские фото и результаты
+images/
+results/

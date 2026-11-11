@@ -1,0 +1,6 @@
+# Python 3.12. PyTorch ставить CPU-версию отдельно:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+ultralytics==8.4.210
+openvino==2026.4.1
+opencv-python==5.0.0
+PySide6-Essentials==6.12.0
